@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kariuki James, an android developer based in Nairobi Kenya.
+- 👋 Hi, I’m Kariuki James, a native Android Developer (Java and Kotlin ) based in Nairobi Kenya.
 
 <!---
 k-wjames/k-wjames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
