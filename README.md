@@ -2,8 +2,6 @@
 #### I am Kariuki James, a Software Developer based in Nairobi Kenya.
 ![Founder & Software Developer](https://media.licdn.com/dms/image/D4D16AQHPbK0Jw-wa3A/profile-displaybackgroundimage-shrink_350_1400/0/1679387520540?e=1687392000&v=beta&t=Bm2C4XCG3kD5Sep7SA56sIJBOFOXLIyfBu5d8aJEMX4)
 
-Android Developer| Innovating with Software Solutions | Transforming Businesses with Technology | Monitoring and Evaluation.
-
 #### Skills:
 Android Java/Kotlin  / Spring boot / SQL & NoSQL Databases / HTML / CSS
 
