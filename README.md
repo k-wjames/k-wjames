@@ -15,13 +15,13 @@ The ZAO Farmers app has been revamped and is now available on Playstore. I had a
 
 <img src='https://media.licdn.com/dms/image/C4D22AQH_CF2ZB_sQTg/feedshare-shrink_800/0/1678809807061?e=1684972800&v=beta&t=CvByPiKgCthppRyc2HFNWIxnQDcbLBBMsmKbXSWryX4'>
 
-#### GasTrack Outlet
+#### GasTrack Outlet App
 
 An LPG Business outlet management app automating business processes at an outlet.
 
 <img src='https://media.licdn.com/dms/image/C4D22AQE3ybXwaKzIxw/feedshare-shrink_800/0/1676474468727?e=1684972800&v=beta&t=vh2415lza6_3U30-MmimEWMUoaC5raD5JSUZ3NgAKW8'>
 
-#### GasTrack Admin
+#### GasTrack Admin App
 
 GasTrack Admin app helps owners in LPG Business manage their shops/outlets realtime.
 
@@ -30,11 +30,14 @@ GasTrack Admin app helps owners in LPG Business manage their shops/outlets realt
 
 
 
-### Building
+## Building
 I’m currently building Kodelite Solutions 
 
+## Website
+kodelite.co.ke 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/k-wjames)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kariuki-james//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kodelite.co.ke)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/k-wjames)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kariuki-james//)  
  
 
 
