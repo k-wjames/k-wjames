@@ -1,6 +1,21 @@
-- 👋 Hi, I’m Kariuki James, a native Android Developer (Java and Kotlin ) based in Nairobi Kenya.
+### Hi there 👋, 
+### I am Kariuki James, a Software Developer based in Nairobi Kenya.
+![Founder & Software Developer](https://media.licdn.com/dms/image/D4D16AQHPbK0Jw-wa3A/profile-displaybackgroundimage-shrink_350_1400/0/1679387520540?e=1687392000&v=beta&t=Bm2C4XCG3kD5Sep7SA56sIJBOFOXLIyfBu5d8aJEMX4)
 
-<!---
-k-wjames/k-wjames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Android Developer | Java | Kotlin | Web Services | Innovating with Software Solutions | Transforming Businesses with Technology | Monitoring and Evaluation.
+
+#### Skills:
+Android Java/Kotlin  / Spring boot / SQL & NoSQL Databases / HTML / CSS
+
+##### Recent works
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/k-wjames)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kariuki-james//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kodelite.co.ke)  
+
+
+
+
+
+
+
+
