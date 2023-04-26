@@ -31,10 +31,8 @@ GasTrack Admin app helps owners in LPG Business manage their shops/outlets realt
 <img src='https://media.licdn.com/dms/image/C4D22AQFNkpAb3XxMlA/feedshare-shrink_800/0/1676447484182?e=1684972800&v=beta&t=vcFNaYNs63ruF3KSSypegRfRMkCxcJB57tC8go_B-XU'>
 
 ## Building
-```bash
 Currently building Kodelite Solutions, a mobile apps development agency specializing in building high-quality native mobile apps.
 Our main objective is to help businesses and organizations achieve their goals through the use of cutting-edge mobile technology.
-```
 
 ## Website
 kodelite.co.ke 
