@@ -4,19 +4,17 @@
 
 ## Competences:
 ```bash
-## Core
-Java
-Kotlin
-Android
+Android Java/Kotlin
 Android Studio
 Android SDK
 MVVM architecture
 Version Control
+Restful APIs
 Spring boot
 SQL & NoSQL Databases
 HTML
 CSS
-## Other
+
 Clear, precise communication
 A great attitude
 Keen and attentive
