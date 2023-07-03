@@ -1,6 +1,6 @@
 ## Hi there 👋
 #### I am Kariuki James, a Software Developer based in Nairobi Kenya.
-![Founder & Software Developer](https://media.licdn.com/dms/image/D4D16AQHPbK0Jw-wa3A/profile-displaybackgroundimage-shrink_350_1400/0/1679387520540?e=1687392000&v=beta&t=Bm2C4XCG3kD5Sep7SA56sIJBOFOXLIyfBu5d8aJEMX4)
+![Founder & Software Developer]([https://media.licdn.com/dms/image/D4D16AQHPbK0Jw-wa3A/profile-displaybackgroundimage-shrink_350_1400/0/1679387520540?e=1687392000&v=beta&t=Bm2C4XCG3kD5Sep7SA56sIJBOFOXLIyfBu5d8aJEMX4](https://media.licdn.com/dms/image/D4D16AQHPbK0Jw-wa3A/profile-displaybackgroundimage-shrink_200_800/0/1679387520540?e=2147483647&v=beta&t=LUazyrGZBmo-UzgaFtKcz2-LLBD5WJR5ye4cFabeKvc))
 
 ## Competences:
 ```bash
