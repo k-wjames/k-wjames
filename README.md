@@ -45,7 +45,7 @@ Currently building Kodelite Solutions, an agency specializing in building high-q
 Our main objective is to help businesses and organizations achieve their goals through the use of cutting-edge mobile technology.
 
 ## Website
-kodelite.co.ke 
+https://kodelite.co.ke 
 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/kariuki-james/)  
