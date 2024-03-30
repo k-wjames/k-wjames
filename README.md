@@ -1,24 +1,4 @@
-## Hi there 👋
-#### I am Kariuki James, a Software Developer based in Nairobi Kenya.
-
-## Competences:
-```bash
-Android Java/Kotlin
-Android Studio
-Android SDK
-MVVM architecture
-Version Control
-Restful APIs
-Spring boot
-SQL & NoSQL Databases
-HTML
-CSS
-
-Clear, precise communication
-A great attitude
-Keen and attentive
-People skills
-```
+## Hi there 👋 My name is James, and I build for Android using Kotlin and Java.
 
 ## Recent works
 #### ZAO Market
@@ -45,7 +25,7 @@ https://kodelite.co.ke
  
 
 # 💫 About Me:
-Builds for Android using Kotlin and Java
+I build for Android using Kotlin and Java
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-wjames) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jwk_me) 
