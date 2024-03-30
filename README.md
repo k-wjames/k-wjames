@@ -5,6 +5,12 @@ Currently building Kodelite Solutions, an agency specializing in building high-q
 Our main objective is to help businesses and organizations achieve their goals through the use of cutting-edge mobile technology. Checkout us out here https://kodelite.co.ke
 
 #### Recent works
+
+#### Ngoma charts
+The official Kenyan Music charts, where the heartbeat of the vibrant Kenyan Music industry comes alive. Ngoma Charts is not just a platform; it's a dynamic force that meticulously collects and analyzes data from all Digital Streaming Platforms (DSPs) and radio to bring you the most accurate reflection of the Kenyan music scene.
+#### Tiwi
+A native kotlin mobile app automating procurement processes for a construction company. 
+
 #### ZAO Market
 
 The ZAO Farmers app has been revamped and is now available on Playstore. I had an exciting journey working with an amazing team to create a seamless experience for farmers to connect with buyers directly. The app's advanced features allow farmers to display their products, set prices, and receive payments directly, which can help them generate more income and contribute to the growth of our agricultural sector.
@@ -17,8 +23,6 @@ An LPG Business outlet management app automating business processes at an outlet
 
 GasTrack Admin app helps owners in LPG Business manage their shops/outlets realtime.
 
-#### Website
-https://kodelite.co.ke 
 
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-wjames) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jwk_me) 
