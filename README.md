@@ -1,5 +1,9 @@
 #### Hi there 👋 My name is James, and I build for Android using Kotlin and Java.
 
+#### Building
+Currently building Kodelite Solutions, an agency specializing in building high-quality native mobile apps.
+Our main objective is to help businesses and organizations achieve their goals through the use of cutting-edge mobile technology.
+
 #### Recent works
 #### ZAO Market
 
@@ -12,10 +16,6 @@ An LPG Business outlet management app automating business processes at an outlet
 #### GasTrack Admin App
 
 GasTrack Admin app helps owners in LPG Business manage their shops/outlets realtime.
-
-#### Building
-Currently building Kodelite Solutions, an agency specializing in building high-quality native mobile apps.
-Our main objective is to help businesses and organizations achieve their goals through the use of cutting-edge mobile technology.
 
 #### Website
 https://kodelite.co.ke 
