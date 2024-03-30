@@ -2,7 +2,7 @@
 
 #### Building
 Currently building Kodelite Solutions, an agency specializing in building high-quality native mobile apps.
-Our main objective is to help businesses and organizations achieve their goals through the use of cutting-edge mobile technology.
+Our main objective is to help businesses and organizations achieve their goals through the use of cutting-edge mobile technology. Checkout our website here https://kodelite.co.ke
 
 #### Recent works
 #### ZAO Market
