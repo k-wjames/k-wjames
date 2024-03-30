@@ -20,13 +20,6 @@ Our main objective is to help businesses and organizations achieve their goals t
 ## Website
 https://kodelite.co.ke 
 
-
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/kariuki-james/)  
- 
-
-# 💫 About Me:
-I build for Android using Kotlin and Java
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-wjames) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jwk_me) 
 
